@@ -34,6 +34,11 @@ The open source development of the project will be centralized here as well as *
 2. Scrape discord channels for pump and dump signals.
 3. Ability to choose between OCO order or Take Profit only.
 
+
+## macOS Instructions
+Note: This program does function perfectly well on macOS. 
+A file called `mono-macos.sh` is provided. Run that shell script (i.e. `bash mono-macos.sh` and then run `mono` on the .exe file.)
+
 # DONATE
 ###### BTC: bc1quth38qlwg78g9s9umzvchm93t7fehftahpn8ja
 ![bc1quth38qlwg78g9s9umzvchm93t7fehftahpn8ja](https://i.imgur.com/uyU2uzP.png)
